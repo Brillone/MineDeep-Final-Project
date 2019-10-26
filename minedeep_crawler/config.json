@@ -1,0 +1,36 @@
+{
+	"user_tokens": [
+		{
+			"user_name":"user_name1",
+			"consumer_key":"XXXXXXXXXXXXXXXXXXXXXXXXX",
+			"consumer_secret":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+			"access_token":"NNNNNNNNNNNNNNNNNN-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+			"access_secret":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		},
+		{
+			"user_name":"user_name2",
+			"consumer_key":"XXXXXXXXXXXXXXXXXXXXXXXXX",
+			"consumer_secret":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+			"access_token":"NNNNNNNNNNNNNNNNNN-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+			"access_secret":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		}
+	],
+	"app_tokens": [
+		{
+			"app_name":"app_name1",
+			"consumer_key":"XXXXXXXXXXXXXXXXXXXXXXXXX",
+			"consumer_secret":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		},
+		{
+			"app_name":"app_name2",
+			"consumer_key":"XXXXXXXXXXXXXXXXXXXXXXXXX",
+			"consumer_secret":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+		}
+	],
+	"db_con_params":
+		{
+			"user":"user",
+			"password":"pass",
+			"database":"database_name"
+		}
+}
