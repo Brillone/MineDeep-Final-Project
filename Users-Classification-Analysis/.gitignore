@@ -1,0 +1,8 @@
+
+tweets_collect_tool/\.idea/
+
+\.idea/
+
+notebooks/\.ipynb_checkpoints/
+
+notebooks/__pycache__/
